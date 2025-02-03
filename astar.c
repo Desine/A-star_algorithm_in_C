@@ -1,5 +1,5 @@
-#include "../data_structures/linked_list/linked_list.h"
-#include "../data_structures/vector/vector2/vector2.h"
+#include "../libraries/linked_list.h"
+#include "../libraries/vector2.h"
 #include "stdbool.h"
 #include <unistd.h>
 #include <time.h>
